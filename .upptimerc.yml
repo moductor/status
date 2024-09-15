@@ -6,6 +6,7 @@ sites:
     url: https://moductor.dev/
 
 status-website:
+  name: Moductor Status
   cname: status.moductor.dev
   navbar:
     - title: Status
